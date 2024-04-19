@@ -1,3 +1,3 @@
-# Berikut adalah dbdiagram dari challenge yang saya buat
+# DBDIAGRAM
 
 ![My image](docs/dbdiagram.png)
